@@ -21,6 +21,7 @@ Um texto precisa ser encriptado usando o seguinte esquema. Primeiro, os espaços
 * Considere T, como o tamanho do texto.
 * Se certifique de que linhas x colunas >= .
 * Se múltiplos grids satisfazem as condições, escolha aquele com a menor área.
+
 Escreva um algoritmo que ao receber uma string s, mostre a mensagem encriptada de acordo com as regras descritas.
 
 > Tecnologias utilizadas:
